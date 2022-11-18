@@ -1,0 +1,7 @@
+com\task2\inventoryservice\controller\InventoryController.class
+com\task2\inventoryservice\model\Inventory.class
+com\task2\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\task2\inventoryservice\InventoryServiceApplication.class
+com\task2\inventoryservice\dto\InventoryResponse.class
+com\task2\inventoryservice\service\InventoryService.class
+com\task2\inventoryservice\repository\InventoryRepository.class

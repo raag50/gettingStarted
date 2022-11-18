@@ -1,0 +1,28 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/onlineshopping?createDatabaseIfNotExist=true&useSSL=true
+    username: "root"
+    password: "root"
+
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+
+  application:
+    name: inventory-service
+
+  jpa:
+    hibernate.ddl-auto: create-drop
+    generate-ddl: true
+    show-sql: true
+server:
+  port: 8083
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+

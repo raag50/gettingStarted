@@ -1,0 +1,10 @@
+com\task2\productservice\controller\ProductController.class
+com\task2\productservice\dto\ProductRequest.class
+com\task2\productservice\repository\ProductRepository.class
+com\task2\productservice\model\Product$ProductBuilder.class
+com\task2\productservice\model\Product.class
+com\task2\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\task2\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\task2\productservice\service\ProductService.class
+com\task2\productservice\dto\ProductResponse.class
+com\task2\productservice\ProductServiceApplication.class

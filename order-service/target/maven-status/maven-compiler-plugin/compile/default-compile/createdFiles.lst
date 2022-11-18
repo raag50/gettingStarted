@@ -1,0 +1,8 @@
+com\task2\orderservice\dto\OrderLineItemsDto.class
+com\task2\orderservice\controller\OrderController.class
+com\task2\orderservice\repository\OrderRepository.class
+com\task2\orderservice\dto\OrderRequest.class
+com\task2\orderservice\OrderServiceApplication.class
+com\task2\orderservice\service\OrderService.class
+com\task2\orderservice\model\Order.class
+com\task2\orderservice\model\OrderLineItems.class
